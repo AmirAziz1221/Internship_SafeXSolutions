@@ -20,6 +20,12 @@ separately).
 This repository documents the weekly tasks completed as part of the
 internship program.
 
+## Internship Offer Letter
+
+<p align="center">
+  <img src="pictures/Amir Aziz.jpg" alt="SafeX Solutions Internship Offer Letter" width="800">
+</p>
+
 ## Weeks
 
 | Week | Task | Link |
