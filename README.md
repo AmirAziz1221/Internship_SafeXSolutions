@@ -23,7 +23,7 @@ internship program.
 ## Internship Offer Letter
 
 <p align="center">
-  <img src="Pictures/Amir Aziz.jpg" alt="SafeX Solutions Internship Offer Letter" width="800">
+  <img src="Pictures/AmirAziz.jpg" alt="SafeX Solutions Internship Offer Letter" width="800">
 </p>
 
 ## Weeks
