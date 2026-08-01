@@ -1,0 +1,26 @@
+rank,name,industry,company_size,job_title,lead_source,days_since_last_activity,industry_score,size_score,engagement_score,title_score,source_score,recency_score,total_score,lead_grade
+1,Ayesha Khan,Software,120,CTO,Referral,1,20,16,18,20,10,10,94,Hot
+2,Sara Baig,Software,130,CTO,Referral,2,20,16,18,20,10,10,94,Hot
+3,Mariam Farooq,Software,220,Head of Data,Webinar,1,20,16,17,20,8,10,91,Hot
+4,Rabia Aslam,Software,600,VP Product,Webinar,6,20,20,13,20,8,8,89,Hot
+5,Tariq Mehmood,Healthcare,400,IT Director,Referral,3,14,20,14,20,10,10,88,Hot
+6,Mehak Kamal,Finance,95,VP Finance,Referral,2,16,12,17,20,10,10,85,Hot
+7,Fatima Noor,Healthcare,80,IT Director,Referral,2,14,12,19,20,10,10,85,Hot
+8,Nimra Saeed,Finance,40,CFO,Referral,1,16,8,20,20,10,10,84,Hot
+9,Alina Zafar,Software,55,Product Owner,Webinar,1,20,12,19,12,8,10,81,Hot
+10,Hamza Sheikh,Finance,500,VP Engineering,Website Form,5,16,20,10,20,6,8,80,Hot
+11,Sana Malik,Software,45,Product Manager,Webinar,3,20,8,14,12,8,10,72,Warm
+12,Nadia Yousaf,Software,18,Founder,Website Form,14,20,4,10,20,6,5,65,Warm
+13,Hira Younis,Manufacturing,150,Plant Manager,Trade Show,4,10,16,14,12,5,8,65,Warm
+14,Iqra Shahid,Finance,210,Finance Manager,Trade Show,9,16,16,10,12,5,5,64,Warm
+15,Omar Sultan,Retail,35,Store Manager,Referral,7,8,8,11,12,10,8,57,Warm
+16,Zainab Riaz,Software,8,Founder,Cold Outreach,20,20,4,6,20,2,2,54,Warm
+17,Usman Tariq,Manufacturing,300,Operations Head,Trade Show,12,10,20,7,5,5,5,52,Warm
+18,Waleed Anjum,Manufacturing,70,Quality Analyst,Website Form,22,10,12,7,12,6,2,49,Cold
+19,Kashif Iqbal,Software,90,Software Engineer,Cold Outreach,18,20,12,6,5,2,2,47,Cold
+20,Faisal Chaudhry,Healthcare,25,Nurse,Website Form,50,14,8,3,5,6,0,36,Cold
+21,Ali Raza,Education,60,Teacher,Website Form,35,6,12,2,5,6,0,31,Cold
+22,Asad Bhatti,Manufacturing,25,Technician,Cold Outreach,55,10,8,3,5,2,0,28,Cold
+23,Bilal Ahmed,Retail,15,Sales Associate,Cold Outreach,40,8,4,3,5,2,0,22,Cold
+24,Junaid Latif,Retail,5,Owner,Cold Outreach,45,8,4,2,5,2,0,21,Cold
+25,Danish Karim,Education,10,Intern,Cold Outreach,60,6,4,0,5,2,0,17,Cold
