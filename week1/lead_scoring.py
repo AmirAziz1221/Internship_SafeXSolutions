@@ -1,22 +1,8 @@
-"""
-Rule-Based Lead Scoring Model
-=============================
-Scores and ranks mock leads by likelihood to convert, using 6 weighted
-criteria. Pure rule-based logic (no ML) -- transparent and easy to explain
-to a non-technical stakeholder.
-
-Author: Amir Aziz
-"""
-
 import pandas as pd
 
 # -----------------------------------------------------------------------
 # STEP 1: MOCK LEAD DATASET
 # -----------------------------------------------------------------------
-# In a real scenario this would come from a CRM export (HubSpot, Salesforce,
-# Zoho, etc.). Here we hand-build 25 realistic leads covering a spread of
-# industries, company sizes, engagement levels, job titles, lead sources,
-# and recency -- so the scoring logic has enough variance to be meaningful.
 
 leads = [
     # name, industry, company_size, emails_opened(/5), website_visits, job_title, lead_source, days_since_last_activity
