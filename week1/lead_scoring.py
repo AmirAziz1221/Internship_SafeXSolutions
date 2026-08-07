@@ -154,3 +154,6 @@ ranked = ranked[output_cols]
 
 ranked.to_csv("ranked_leads.csv", index=False)
 
+print(ranked.to_string(index=False))
+print(f"\nSaved {len(ranked)} ranked leads to ranked_leads.csv")
+print(f"\nGrade distribution:\n{ranked['lead_grade'].value_counts()}")
