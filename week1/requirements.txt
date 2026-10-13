@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+opencv-python-headless
+mediapipe==0.10.21
+ultralytics
+numpy
